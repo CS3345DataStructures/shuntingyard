@@ -1,0 +1,3 @@
+The following code uses standard java libraries and uses Shunting Yard algorithm to implement Infix to Postfix operations and creation,evaluation of
+postfix and expression tree.
+The code was tested and run in Intellij Platform.
